@@ -1,0 +1,23 @@
+{
+  "name": "Averia Gruesa Libre",
+  "designer": "Dan Sayers",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 62730,
+  "fonts": [
+    {
+      "name": "Averia Gruesa Libre",
+      "style": "italic",
+      "weight": 500,
+      "filename": "AveriaGruesaLibre-Regular.ttf",
+      "postScriptName": "AveriaGruesaLibre-Regular",
+      "fullName": "Averia Gruesa Libre",
+      "copyright": "Copyright (c) 2011, Dan Sayers (i@iotic.com), with Reserved Font Name 'Averia' and 'Averia Libre'."
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2012-03-14"
+}
